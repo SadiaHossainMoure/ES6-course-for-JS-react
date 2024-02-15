@@ -20,3 +20,4 @@ const getFullName=(firstName,middleName,lastName) =>{
 }
 
 console.log(`${getFullName("sadia", "hossain", "moure") }`);
+
